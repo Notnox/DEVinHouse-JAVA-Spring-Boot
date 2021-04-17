@@ -1,7 +1,6 @@
 package com.devinhouse.senaidevinhouse.service;
 
 import java.time.LocalDate;
-import java.time.LocalDateTime;
 import java.time.LocalTime;
 
 import org.springframework.scheduling.annotation.Scheduled;
